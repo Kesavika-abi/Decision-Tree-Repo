@@ -36,21 +36,7 @@ With a **responsive design** and **real-time predictions**, this app is useful f
 ---
 
 ## 📂 Project Structure
-house-price-prediction/
-│
-├── static/
-│ └── style.css # Custom frontend styling
-│
-├── templates/
-│ ├── index.html # User input form
-│ └── result.html # Prediction result page
-│
-├── house_data.csv # House dataset (₹)
-├── model_train.py # Model training script
-├── model.pkl # Trained Linear Regression model
-├── app.py # Flask application
-├── requirements.txt # Dependencies list
-└── README.md # Project documentation
+![Structure](image.png)
 
 
 ---
@@ -84,7 +70,7 @@ Open your browser and visit:http://127.0.0.1:5000/
 
 📊 Market analysis tools for housing trends
 
-📌 Future Enhancements
+### 📌 Future Enhancements
 Add location as a feature for better accuracy
 
 Support for multiple regression models
