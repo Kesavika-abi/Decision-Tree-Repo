@@ -61,23 +61,24 @@ python model_train.py
 python app.py
 Open your browser and visit:http://127.0.0.1:5000/
 
- Use Cases
- Real estate companies for price estimation
+### Use Cases
 
- Property listing portals to auto-suggest prices
+- Real estate companies for price estimation
 
- Home buyers & sellers for quick valuations
+- Property listing portals to auto-suggest prices
 
- Market analysis tools for housing trends
+- Home buyers & sellers for quick valuations
+
+- Market analysis tools for housing trends
 
 ###  Future Enhancements
-Add location as a feature for better accuracy
+- Add location as a feature for better accuracy
 
-Support for multiple regression models
+- Support for multiple regression models
 
-Deployment on Heroku or Render
+- Deployment on Heroku or Render
 
-Option to upload CSV for bulk predictions
+- Option to upload CSV for bulk predictions
 
 
 ##  Screenshots
